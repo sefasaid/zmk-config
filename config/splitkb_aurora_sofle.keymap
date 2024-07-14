@@ -17,7 +17,7 @@ Uncomment this block if using RGB
 };
 
 
-/ {
+{
     keymap {
         compatible = "zmk,keymap";
 
