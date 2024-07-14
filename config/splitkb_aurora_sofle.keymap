@@ -16,7 +16,7 @@
 };
 
 
-{
+/ {
     keymap {
         compatible = "zmk,keymap";
 
